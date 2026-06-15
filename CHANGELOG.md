@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-27)
+## Unreleased (2026-06-15)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`cbe79e4`](https://github.com/stdlib-js/stdlib/commit/cbe79e479b16b66d34f8e7b0e513797bb00e06ed) - **refactor:** rename internal variables [(#12894)](https://github.com/stdlib-js/stdlib/pull/12894) _(by Philipp Burckhardt)_
 -   [`fdcf93d`](https://github.com/stdlib-js/stdlib/commit/fdcf93d000432eedb131d8c0a03fbb269e91e66e) - **docs:** update example variables and document domain [(#12301)](https://github.com/stdlib-js/stdlib/pull/12301) _(by Philipp Burckhardt)_
 -   [`8fc5e6c`](https://github.com/stdlib-js/stdlib/commit/8fc5e6c08689b2e7df7aeb3a14f4918c8d53986b) - **docs:** fix parameter name in comment of `chisquare/mean/src/main.c` [(#10779)](https://github.com/stdlib-js/stdlib/pull/10779) _(by Siddhartha Mondal)_
 -   [`12c2cee`](https://github.com/stdlib-js/stdlib/commit/12c2cee21de81594436e583fc379339cf5ac89c1) - **bench:** refactor to use string interpolation in `stats/base/dists/chisquare` [(#10325)](https://github.com/stdlib-js/stdlib/pull/10325) _(by Vishal Gaikwad)_
